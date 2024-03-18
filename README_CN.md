@@ -5,7 +5,7 @@
 
 [视频教程](https://www.bilibili.com/video/BV1bC411h7rL/?spm_id_from=333.337.search-card.all.click&vd_source=0f3856461d10e6a4d57fd99cf05a7fca)
 
-#简介
+# 简介
 Lidar Studio SDK 是为Lidar Studio点云处理与分析软件设计的软件开发套件。它基于 C/C++ 语言开发，并为用户提供了易用的 C 语言风格的接口。通过 Lidar Studio SDK，用户可以快速地基于Lidar Studio平台进行二次开发。
 
 ## 开发环境
@@ -14,20 +14,20 @@ Lidar Studio SDK 是为Lidar Studio点云处理与分析软件设计的软件开
 * [Qt5.13.0](https://download.qt.io/archive/qt/5.13/5.13.0/)
 
 
-#使用
-##配置CMake
+# 使用
+## 配置CMake
 设置QT_ROOT与SDK_ROOT，参考
 
     QT_ROOT  D:\Qt\Qt5.13.0\5.13.0\msvc2015_64
 	SDK_ROOT D:\Lidar-Studio-SDK
 
-##编译
+## 编译
 编译结果输出至bin文件夹，作为平台的插件
 
-##拷贝插件
+## 拷贝插件
 拷贝编译好的插件至目录`{Lidar Studio install root}/plugins/custom_plugins`
 
-##拷贝插件使用的三方库
+## 拷贝插件使用的三方库
 拷贝插件依赖的三方库至目录`{Lidar Studio install root}/plugins/custom_plugins/custom_thirdparty`
 
 # 关于我们

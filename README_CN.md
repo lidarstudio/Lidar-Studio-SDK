@@ -22,7 +22,7 @@ Lidar Studio SDK 是为Lidar Studio点云处理与分析软件设计的软件开
 	SDK_ROOT D:\Lidar-Studio-SDK
 
 ## 编译
-编译结果输出至bin文件夹，作为平台的插件
+选择Release，编译结果输出至bin文件夹，作为平台的插件
 
 ## 拷贝插件
 拷贝编译好的插件至目录`{Lidar Studio install root}/plugins/custom_plugins`

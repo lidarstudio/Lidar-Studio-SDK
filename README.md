@@ -22,7 +22,7 @@ config QT_ROOT与SDK_ROOT，refer to
 	SDK_ROOT D:\Lidar-Studio-SDK
 
 ## Compile
-The compilation result is output to the bin folder as a plugin of the platform.
+Choose Release, The compilation result is output to the bin folder as a plugin of the platform.
 
 ## Copy plugin
 Copy the compiled plugin to the directory.`{Lidar Studio install root}/plugins/custom_plugins`

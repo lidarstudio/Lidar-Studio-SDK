@@ -11,6 +11,7 @@ Lidar Studio SDK is the software development kit designed for Lidar Studio point
 ## Prerequisites
 * Windows 7/10/11, Visual Studio 2015 Update3/2017/2019/2022
 * C++11 compiler
+* Lidar Studio v1.7 or newer
 * [Qt5.13.0](https://download.qt.io/archive/qt/5.13/5.13.0/)
 
 

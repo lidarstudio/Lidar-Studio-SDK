@@ -11,6 +11,7 @@ Lidar Studio SDK 是为Lidar Studio点云处理与分析软件设计的软件开
 ## 开发环境
 * Windows 7/10/11, Visual Studio 2015 Update3/2017/2019/2022
 * C++11 编译器
+* Lidar Studio v1.7及更高版本
 * [Qt5.13.0](https://download.qt.io/archive/qt/5.13/5.13.0/)
 
 

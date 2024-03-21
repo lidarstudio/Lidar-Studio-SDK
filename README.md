@@ -6,7 +6,7 @@
 [Video tutorial](https://www.bilibili.com/video/BV1bC411h7rL/?spm_id_from=333.337.search-card.all.click&vd_source=0f3856461d10e6a4d57fd99cf05a7fca)
 
 # Intro
-Lidar Studio SDK is the software development kit designed for Lidar Studio point cloud processing and analysis software。It is developed based on C/C++，and provides easy-to-use C style API. With Lidar Studio SDK, users can quickly carry out secondary development based on Lidar Studio platform.
+Lidar Studio SDK is the software development kit designed for Lidar Studio point cloud processing and analysis software[https://github.com/lidarstudio/Lidar-Studio](https://github.com/lidarstudio/Lidar-Studio)。It is developed based on C/C++，and provides easy-to-use C style API. With Lidar Studio SDK, users can quickly carry out secondary development based on Lidar Studio platform.
 
 ## Prerequisites
 * Windows 7/10/11, Visual Studio 2015 Update3/2017/2019/2022
@@ -16,6 +16,13 @@ Lidar Studio SDK is the software development kit designed for Lidar Studio point
 
 
 # How to use
+## Install Lidar Studio
+Software, user manual, tutorial video download address (Baidu network disk)
+```
+	Interlinkage：https://pan.baidu.com/s/1GgvWMf8kNGyYG7l12w9Wtg 
+	Pick up code：69uh
+```
+
 ## Config CMake
 config QT_ROOT与SDK_ROOT，refer to
 
